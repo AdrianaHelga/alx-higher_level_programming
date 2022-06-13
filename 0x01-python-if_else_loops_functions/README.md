@@ -99,3 +99,49 @@ You are not allowed to import any module
 You are not allowed to use str.upper() and str.isupper()
 Tips: ord()
 You don’t need to understand __import__
+
+## 8-uppercase.py
+### 8. To uppercase
+Write a function that prints a string in uppercase followed by a new line.
+
+Prototype: def uppercase(str):
+You can only use no more than 2 print functions with string format
+You can only use one loop in your code
+You are not allowed to import any module
+You are not allowed to use str.upper() and str.isupper()
+Tips: ord()
+
+## 9-print_last_digit.py
+### 9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+Write a function that prints the last digit of a number.
+
+Prototype: def print_last_digit(number):
+Returns the value of the last digit
+You are not allowed to import any module
+
+## 10-add.py
+### 10. a + b
+Write a function that adds two integers and returns the result.
+
+Prototype: def add(a, b):
+Returns the value of a + b
+You are not allowed to import any module
+
+## 11-pow.py
+### 11. a ^ b
+Write a function that computes a to the power of b and return the value.
+
+Prototype: def pow(a, b):
+Returns the value of a ^ b
+You are not allowed to import any module
+
+## 12-fizzbuzz.py
+### 12. Fizz Buzz
+Write a function that prints the numbers from 1 to 100 separated by a space.
+
+For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
+For numbers which are multiples of both three and five print FizzBuzz.
+Prototype: def fizzbuzz():
+Each element should be followed by a space
+You are not allowed to import any module
+
